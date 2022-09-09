@@ -28,7 +28,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "fdsf",
+					"host": [
+						"fdsf"
+					]
 				}
 			},
 			"response": []
@@ -48,17 +51,17 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "8872a002-fd28-4f56-ad85-6369ce02312a",
+				"id": "19658b19-74de-47b9-ba08-889de2ff1699",
 				"type": "text/javascript",
 				"exec": [
-					"fdsfsf"
+					""
 				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
-				"id": "1984f792-c136-4508-b665-e79f2082585a",
+				"id": "1fb6b537-c015-4b55-a097-163c2773f9f1",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -68,13 +71,13 @@
 	],
 	"variable": [
 		{
-			"id": "f48f9cd0-28ec-4d00-9fd2-d6018e0ff766",
+			"id": "d37a7152-d671-404d-8375-b45f1331591e",
 			"key": "dfads",
 			"value": "dfs",
 			"type": "string"
 		},
 		{
-			"id": "d407260a-a5a2-46f9-b11b-0fc9b15798ec",
+			"id": "f14061e2-058e-436d-b892-8539f4be1133",
 			"key": "dfs",
 			"value": "dfsd",
 			"type": "string"
