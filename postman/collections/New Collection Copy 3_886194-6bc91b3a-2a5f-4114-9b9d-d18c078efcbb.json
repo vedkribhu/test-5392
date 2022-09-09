@@ -10,20 +10,20 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "2cbf1c5e-03bf-4fe8-a653-1b661aa6b038",
+				"id": "4a3b1a28-2a28-4cc6-b380-e03c11e1d9fe",
 				"type": "text/javascript",
 				"exec": [
-					"fsdfs"
+					"commit-1"
 				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
-				"id": "d3c9b28c-56da-4209-8231-b81121c2ceb8",
+				"id": "d92efffa-22d2-4573-9da1-5b75bc39a5ac",
 				"type": "text/javascript",
 				"exec": [
-					"fdfsfs"
+					"commit-1"
 				]
 			}
 		}
