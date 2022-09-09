@@ -26,7 +26,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "af741091-f4e2-492d-b8dc-090d6efd98f5",
+				"id": "975a9dbe-dd19-43eb-9186-9b6bffcf13aa",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -36,12 +36,26 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "898fc44f-ec7c-48b7-875b-6c1e8ad03d7e",
+				"id": "b7ddf80f-0036-4add-a5fa-63fd5033b83e",
 				"type": "text/javascript",
 				"exec": [
 					""
 				]
 			}
+		}
+	],
+	"variable": [
+		{
+			"id": "0a8505a7-d397-4a63-b1df-8e4b7580b8d5",
+			"key": "dfads",
+			"value": "dfs",
+			"type": "string"
+		},
+		{
+			"id": "8679ec55-e0b3-4a86-8a69-2d06aea3773c",
+			"key": "dfs",
+			"value": "dfsd",
+			"type": "string"
 		}
 	]
 }
