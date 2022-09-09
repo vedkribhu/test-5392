@@ -10,7 +10,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "dc94754d-3c84-43c6-a353-88c671f699c6",
+				"id": "af741091-f4e2-492d-b8dc-090d6efd98f5",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -20,10 +20,10 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "718aa70d-0bb2-4745-b88a-404f2c40606c",
+				"id": "898fc44f-ec7c-48b7-875b-6c1e8ad03d7e",
 				"type": "text/javascript",
 				"exec": [
-					"dfadfsssdfdsd"
+					""
 				]
 			}
 		}
