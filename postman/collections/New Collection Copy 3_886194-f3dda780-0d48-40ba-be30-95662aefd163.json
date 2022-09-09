@@ -8,6 +8,18 @@
 	"item": [
 		{
 			"name": "fdasfsd",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "19c4b41d-4b22-44dd-abe1-4caacbd75546",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"id": "ef3c8205-406d-49a9-b8b4-33be0b9ec3ea",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -22,6 +34,16 @@
 			"response": []
 		}
 	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "username",
+				"value": "ds",
+				"type": "string"
+			}
+		]
+	},
 	"event": [
 		{
 			"listen": "prerequest",
