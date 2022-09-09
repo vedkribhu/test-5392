@@ -5,7 +5,23 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "886194-f3dda780-0d48-40ba-be30-95662aefd163"
 	},
-	"item": [],
+	"item": [
+		{
+			"name": "fdasfsd",
+			"id": "ef3c8205-406d-49a9-b8b4-33be0b9ec3ea",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
 	"event": [
 		{
 			"listen": "prerequest",
