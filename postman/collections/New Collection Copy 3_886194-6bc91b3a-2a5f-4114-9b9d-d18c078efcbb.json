@@ -1,16 +1,45 @@
 {
 	"info": {
 		"_postman_id": "6bc91b3a-2a5f-4114-9b9d-d18c078efcbb",
-		"name": "New Collection Copy 3",
+		"name": "dfsafsdfas",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "886194-6bc91b3a-2a5f-4114-9b9d-d18c078efcbb"
 	},
-	"item": [],
+	"item": [
+		{
+			"name": "New Request",
+			"id": "bd54021a-ddbe-4fd5-8041-ee7b289a0f3a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{fdsf}}",
+					"host": [
+						"{{fdsf}}"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "apikey",
+		"apikey": [
+			{
+				"key": "key",
+				"value": "fdsf",
+				"type": "string"
+			}
+		]
+	},
 	"event": [
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "3909e58f-b05c-472f-b6a7-a134607ac0eb",
+				"id": "a7268a00-7b6f-40e1-80ff-6c57f154296e",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -20,12 +49,24 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "2a89c4eb-9633-46d5-aab4-fae0ab309ecd",
+				"id": "0f9d3b74-3f87-43c4-be8c-3c03aea82f97",
 				"type": "text/javascript",
 				"exec": [
 					"commit-1"
 				]
 			}
+		}
+	],
+	"variable": [
+		{
+			"id": "6cc89f05-f664-4d6d-b1b6-079922b54e67",
+			"key": "fsf",
+			"value": "var}}"
+		},
+		{
+			"id": "2f9e3aa9-c048-4bbc-a0d0-3f0919424dc7",
+			"key": "fdsf",
+			"value": "fsdfsfsdfs"
 		}
 	]
 }
