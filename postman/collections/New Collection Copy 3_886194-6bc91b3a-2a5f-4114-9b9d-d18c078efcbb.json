@@ -10,17 +10,17 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "4a3b1a28-2a28-4cc6-b380-e03c11e1d9fe",
+				"id": "3909e58f-b05c-472f-b6a7-a134607ac0eb",
 				"type": "text/javascript",
 				"exec": [
-					"commit-1"
+					""
 				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
-				"id": "d92efffa-22d2-4573-9da1-5b75bc39a5ac",
+				"id": "2a89c4eb-9633-46d5-aab4-fae0ab309ecd",
 				"type": "text/javascript",
 				"exec": [
 					"commit-1"
