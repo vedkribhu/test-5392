@@ -25,21 +25,11 @@
 			"response": []
 		}
 	],
-	"auth": {
-		"type": "apikey",
-		"apikey": [
-			{
-				"key": "key",
-				"value": "fdsf",
-				"type": "string"
-			}
-		]
-	},
 	"event": [
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "a7268a00-7b6f-40e1-80ff-6c57f154296e",
+				"id": "41b8ec0a-d563-45d4-8f5f-2fbaf25ccdd8",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -49,24 +39,12 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "0f9d3b74-3f87-43c4-be8c-3c03aea82f97",
+				"id": "4d379f23-82a9-4de5-8608-cbc8f8f90081",
 				"type": "text/javascript",
 				"exec": [
-					"commit-1"
+					""
 				]
 			}
-		}
-	],
-	"variable": [
-		{
-			"id": "6cc89f05-f664-4d6d-b1b6-079922b54e67",
-			"key": "fsf",
-			"value": "var}}"
-		},
-		{
-			"id": "2f9e3aa9-c048-4bbc-a0d0-3f0919424dc7",
-			"key": "fdsf",
-			"value": "fsdfsfsdfs"
 		}
 	]
 }
