@@ -153,7 +153,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "75dd9ea4-07e7-40f2-8dfc-37be49bdc1fc",
+				"id": "0a6c053a-28a5-47ab-a278-0a39a81ccd8a",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -163,7 +163,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "d85c78e5-95be-4ee2-ba4b-96cdfeab9409",
+				"id": "f62dd702-0803-4c01-93b7-f11dc77f0b2c",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -173,43 +173,43 @@
 	],
 	"variable": [
 		{
-			"id": "e4ad82ff-1f81-49a6-af9b-f406d12b3b14",
+			"id": "c5f508ff-1a3f-4a71-ba2f-63cf09a7b51b",
 			"key": "var",
 			"value": "val",
 			"type": "string"
 		},
 		{
-			"id": "115de47f-4bfe-48ba-b205-3bc4fec85a55",
+			"id": "9957d1c3-a9f5-421e-a2da-552b213330aa",
 			"key": "var",
 			"value": "df",
 			"type": "string"
 		},
 		{
-			"id": "96c39b71-0123-4794-aaba-9dfb9d043a41",
+			"id": "eaeece48-b388-4b90-b184-54d1a0f4ac4b",
 			"key": "new",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "cefe8c06-e20e-492a-bf43-96e47be45098",
+			"id": "8ba62f45-4257-4f53-845c-6bc63497d805",
 			"key": "ds",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "919357e3-c8e0-4464-b0ab-120692b6bfcb",
+			"id": "dc9a4d55-72df-45de-bb7a-3cf7d2c01ed0",
 			"key": "dfs",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "51ba8888-65bd-47b1-81fc-b986a3bd3c66",
+			"id": "86074a43-315b-4f56-89d8-95f9c31c7cdd",
 			"key": "df",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "0e83b25e-1718-4298-af5e-0ddbd330b95a",
+			"id": "f6d2f35b-2984-4bf4-aabe-48ba4361a39b",
 			"key": "fdsf",
 			"value": "",
 			"type": "string"
