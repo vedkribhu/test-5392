@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "fd85bfe4-4fa1-4e16-b9b7-52c829e7fb6f",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "886194-fd85bfe4-4fa1-4e16-b9b7-52c829e7fb6f"
+	},
+	"item": [
+		{
+			"name": "New Requestdsafsad",
+			"id": "cd545f37-5670-47d1-9b23-f718fa0f76e4",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "113849ff-924c-4817-8786-256af721628a",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "e0cd1a21-48cc-4416-b679-956abca239c9",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"id": "49f77a6c-1abf-4689-af2c-cd3119b95b23",
+			"key": "dfsfdsf",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"id": "d012ea7d-bffb-48cc-ab55-d51c371d5632",
+			"key": "dfdsff ",
+			"value": "",
+			"type": "string"
+		}
+	]
+}

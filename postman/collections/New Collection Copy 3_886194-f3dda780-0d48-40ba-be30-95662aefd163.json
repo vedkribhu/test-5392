@@ -7,6 +7,48 @@
 	},
 	"item": [
 		{
+			"name": "New Folder",
+			"item": [],
+			"id": "d15b52a9-7605-4c3a-b760-f57c023241f2",
+			"auth": {
+				"type": "apikey",
+				"apikey": [
+					{
+						"key": "value",
+						"value": "var",
+						"type": "string"
+					},
+					{
+						"key": "key",
+						"value": "new",
+						"type": "string"
+					}
+				]
+			},
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "9401859f-5b5e-4b2f-9c12-f44536a7a483",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "14c0c918-0ad9-484b-b5f5-8495b06e1cfd",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
 			"name": "fdasfsd",
 			"event": [
 				{
@@ -28,22 +70,82 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "fdsf",
+					"raw": "postman-echo.com/get?var={{var}}",
 					"host": [
-						"fdsf"
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"get"
+					],
+					"query": [
+						{
+							"key": "var",
+							"value": "{{var}}"
+						}
 					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "9ad3a175-58ab-4f1c-be63-23aa74fa0266",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
 				}
 			},
 			"response": []
 		}
 	],
 	"auth": {
-		"type": "basic",
-		"basic": [
+		"type": "oauth1",
+		"oauth1": [
 			{
-				"key": "username",
-				"value": "ds",
+				"key": "tokenSecret",
+				"value": "dsf",
 				"type": "string"
+			},
+			{
+				"key": "token",
+				"value": "dsfa",
+				"type": "string"
+			},
+			{
+				"key": "consumerSecret",
+				"value": "dsfa",
+				"type": "string"
+			},
+			{
+				"key": "consumerKey",
+				"value": "fdsf",
+				"type": "string"
+			},
+			{
+				"key": "signatureMethod",
+				"value": "HMAC-SHA1",
+				"type": "string"
+			},
+			{
+				"key": "version",
+				"value": "1.0",
+				"type": "string"
+			},
+			{
+				"key": "addParamsToHeader",
+				"value": false,
+				"type": "boolean"
+			},
+			{
+				"key": "addEmptyParamsToSign",
+				"value": false,
+				"type": "boolean"
 			}
 		]
 	},
@@ -51,7 +153,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "70e21f02-8db4-43d8-8bde-4637cd5f55d4",
+				"id": "75dd9ea4-07e7-40f2-8dfc-37be49bdc1fc",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -61,12 +163,56 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "a43476e9-8c32-48cd-84af-eaf8c6220106",
+				"id": "d85c78e5-95be-4ee2-ba4b-96cdfeab9409",
 				"type": "text/javascript",
 				"exec": [
 					""
 				]
 			}
+		}
+	],
+	"variable": [
+		{
+			"id": "e4ad82ff-1f81-49a6-af9b-f406d12b3b14",
+			"key": "var",
+			"value": "val",
+			"type": "string"
+		},
+		{
+			"id": "115de47f-4bfe-48ba-b205-3bc4fec85a55",
+			"key": "var",
+			"value": "df",
+			"type": "string"
+		},
+		{
+			"id": "96c39b71-0123-4794-aaba-9dfb9d043a41",
+			"key": "new",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"id": "cefe8c06-e20e-492a-bf43-96e47be45098",
+			"key": "ds",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"id": "919357e3-c8e0-4464-b0ab-120692b6bfcb",
+			"key": "dfs",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"id": "51ba8888-65bd-47b1-81fc-b986a3bd3c66",
+			"key": "df",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"id": "0e83b25e-1718-4298-af5e-0ddbd330b95a",
+			"key": "fdsf",
+			"value": "",
+			"type": "string"
 		}
 	]
 }
