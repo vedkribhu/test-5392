@@ -5,5 +5,204 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "886194-29f80720-7768-4dd9-a83b-4e742731055c"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "Test Folder",
+			"item": [
+				{
+					"name": "New Request",
+					"id": "37cf2ec4-af48-4bca-acf5-f6696f4d55fd",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": [
+						{
+							"id": "9e85b4db-b27b-4e03-a7da-d1377553dabc",
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"_postman_previewlanguage": "Text",
+							"header": "",
+							"cookie": [],
+							"body": ""
+						}
+					]
+				},
+				{
+					"name": "New Request",
+					"id": "bc979b6e-3a0f-44a6-9dd5-6906a96a97eb",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": [
+						{
+							"id": "a46f239a-bf58-4d8d-825a-95c4eb67af11",
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"_postman_previewlanguage": "Text",
+							"header": "",
+							"cookie": [],
+							"body": ""
+						}
+					]
+				},
+				{
+					"name": "New Request Copy",
+					"id": "0a4f94b8-b601-4db3-95f6-e78f6a547022",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": [
+						{
+							"id": "621c360a-8351-4f01-9b9a-a5a75ba833d7",
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"_postman_previewlanguage": "Text",
+							"header": "",
+							"cookie": [],
+							"body": ""
+						}
+					]
+				}
+			],
+			"id": "b499f736-7a0b-458b-8084-bd1597e7f39b"
+		},
+		{
+			"name": "Test Folder Copy",
+			"item": [
+				{
+					"name": "New Request",
+					"id": "8bb585c6-539c-4f80-8966-a66cb873654f",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": [
+						{
+							"id": "142b1c58-a428-4393-823a-f01ac6e14077",
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"_postman_previewlanguage": "Text",
+							"header": "",
+							"cookie": [],
+							"body": ""
+						}
+					]
+				},
+				{
+					"name": "New Request",
+					"id": "e5561818-a9d9-4db0-8a07-c0f9ab98bafc",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": [
+						{
+							"id": "74192381-04cc-4c8c-bcd4-cd9d8a23040c",
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"_postman_previewlanguage": "Text",
+							"header": "",
+							"cookie": [],
+							"body": ""
+						}
+					]
+				},
+				{
+					"name": "New Request Copy",
+					"id": "ecb22444-8c86-4566-a455-9755f9a064e7",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": [
+						{
+							"id": "a33c7edd-9c8a-443d-a3aa-767e26823258",
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"_postman_previewlanguage": "Text",
+							"header": "",
+							"cookie": [],
+							"body": ""
+						}
+					]
+				}
+			],
+			"id": "15719ccd-5682-4cde-b9b5-93c28ed2c4f1"
+		}
+	]
 }
