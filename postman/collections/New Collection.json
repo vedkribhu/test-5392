@@ -7,8 +7,66 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "save",
 			"id": "49d5b4d0-43a4-4099-98f7-54579842f458",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "key",
+							"value": "{{var}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "postman-echo.com/post?{{$guid}}",
+					"host": [
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"post"
+					],
+					"query": [
+						{
+							"key": "{{$guid}}",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"id": "de1a4eee-9120-4739-bf0a-2f3b20a004e1",
+					"name": "New Request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"_postman_previewlanguage": "Text",
+					"header": "",
+					"cookie": [],
+					"body": ""
+				}
+			]
+		},
+		{
+			"name": "New Request",
+			"id": "b356a1e5-d96f-4a36-a279-2750cb290566",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -20,6 +78,13 @@
 				}
 			},
 			"response": []
+		}
+	],
+	"variable": [
+		{
+			"id": "0c99c6f9-9f61-4f8b-bb5f-81923c916e6c",
+			"key": "var",
+			"value": "fnda"
 		}
 	]
 }

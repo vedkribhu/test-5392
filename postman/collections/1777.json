@@ -1,0 +1,163 @@
+{
+	"info": {
+		"_postman_id": "186b8456-09ea-4901-9e18-a539a1433eeb",
+		"name": "dfads fasd fsaf as",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "886194-186b8456-09ea-4901-9e18-a539a1433eeb"
+	},
+	"item": [
+		{
+			"name": "sdfas fd adsfas",
+			"item": [
+				{
+					"name": "New Folder",
+					"item": [
+						{
+							"name": "fasdf asfa",
+							"item": [
+								{
+									"name": "New Folder",
+									"item": [
+										{
+											"name": "New Folder",
+											"item": [
+												{
+													"name": "New Request",
+													"id": "179461a0-28b4-4814-bf8a-f797fed4c9d1",
+													"protocolProfileBehavior": {
+														"disableBodyPruning": true
+													},
+													"request": {
+														"method": "GET",
+														"header": [],
+														"url": {
+															"raw": ""
+														}
+													},
+													"response": []
+												}
+											],
+											"id": "dea9463b-08a4-4407-8529-808dbc48dd81"
+										}
+									],
+									"id": "26601898-4e55-4908-8bb8-3023f6d5a940"
+								},
+								{
+									"name": "fddaf asf dawf",
+									"id": "6d8c14c2-9706-4611-8180-c7481e2a803b",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": ""
+										}
+									},
+									"response": []
+								}
+							],
+							"id": "1b6df8e0-1d1b-445b-874f-f59f45206e4e"
+						}
+					],
+					"id": "985f046d-00d6-4b32-9d54-afe277a37b7d"
+				},
+				{
+					"name": "f2-r2",
+					"id": "8ff91da0-5ae0-4338-8e4c-bce8ebabc0a1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "f2-r2 Copy",
+					"id": "5f8a0583-1d63-4819-863b-e7ed18dc18f0",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
+			"id": "b8ef9ddf-9b1f-4edd-9c8b-c7dc0fbdc7a6"
+		},
+		{
+			"name": "fdsaf sd asf asf",
+			"id": "f6001167-9a68-405e-b166-8de11b767862",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": [
+				{
+					"id": "9a72ddeb-00c9-4684-b9bb-e5c786e94aaf",
+					"name": "dfsa asf",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"_postman_previewlanguage": "Text",
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "fdsf",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "982c8bca-d7f4-4251-8ebd-bf86d505ba1d",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "f90358da-5dfb-481a-b7a8-b5ba3d1f954c",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
