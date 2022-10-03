@@ -1,0 +1,199 @@
+{
+	"info": {
+		"_postman_id": "00c279db-8343-4979-a2f5-e656ef1c97a9",
+		"name": "fdsa ff asfa sfd a",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "886194-00c279db-8343-4979-a2f5-e656ef1c97a9"
+	},
+	"item": [
+		{
+			"name": "f1",
+			"item": [
+				{
+					"name": "f1-f1",
+					"item": [
+						{
+							"name": "f1-f1-r1",
+							"id": "a3a751bb-341d-45b2-b2d0-568e44532162",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"response": []
+						}
+					],
+					"id": "9d7dddbd-0db1-4b6b-b4da-c51453de728a"
+				},
+				{
+					"name": "f1-r1",
+					"id": "2aef8873-4cd3-412d-95b9-9c05d7bd8b7b",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
+			"id": "ab172348-76ba-41e7-bbc4-7d108d4e9e43"
+		},
+		{
+			"name": "f2",
+			"item": [
+				{
+					"name": "f2-f2",
+					"item": [
+						{
+							"name": "f2-f2-r1",
+							"id": "a1769277-fa05-44dd-b146-bbcfa83d5063",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"response": []
+						}
+					],
+					"id": "f24023e4-e898-42e6-adaa-70122c8bc974"
+				},
+				{
+					"name": "f2-r2",
+					"id": "4db06cba-cabd-4ed9-90f3-a84c9d0197d1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
+			"id": "1da30394-d756-4bcb-9852-d8127dd1e834"
+		},
+		{
+			"name": "f1",
+			"item": [
+				{
+					"name": "f1-f1",
+					"item": [
+						{
+							"name": "f1-f1-r1",
+							"id": "9a7c530a-f682-47b5-afc5-9efbbf360079",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"response": []
+						}
+					],
+					"id": "e384d02d-1c0f-410f-86d8-c6e38377d0e3"
+				},
+				{
+					"name": "f1-r1",
+					"id": "6a24c7c9-7726-4d95-8a16-37be467091a7",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
+			"id": "1cfdec51-0144-4d00-a871-9ff966bafd85"
+		},
+		{
+			"name": "r1",
+			"id": "849d06b8-ee73-4ad7-add4-de7d2aa5de4d",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": [
+				{
+					"id": "f0c31a00-9f63-4a55-b9c3-75d955b0c857",
+					"name": "r1",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"_postman_previewlanguage": "Text",
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "fdsf",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "87bf7a8a-648b-48a6-a4ee-d1c74d27a70d",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "83de8d31-3a00-4376-b677-2c2c2e12868e",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

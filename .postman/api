@@ -4,19 +4,26 @@ id = 01046a7e-4760-4f4e-b066-30a961ea029b
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"886194-d95cbc01-4930-40c0-b098-542c1d5367d4","path":"1777(1).json","metaData":{}}
-files[] = {"id":"886194-186b8456-09ea-4901-9e18-a539a1433eeb","path":"1777.json","metaData":{}}
-files[] = {"id":"886194-ce02fbd7-482c-442d-a7ba-c78a7608b84f","path":"New Collection(1).json","metaData":{}}
-files[] = {"id":"886194-2172970b-0b6e-4b24-8831-5cddf982ed80","path":"New Collection.json","metaData":{}}
+files[] = {"id":"886194-f2382213-9929-47fa-8867-9cc2e8f0a24b","path":"1(1).json","metaData":{}}
+files[] = {"id":"886194-ce02fbd7-482c-442d-a7ba-c78a7608b84f","path":"2.json","metaData":{}}
+files[] = {"id":"886194-57f19d9e-fc60-4256-aa2c-93b3f3ac5d03","path":"dfasdfa sdf asf.json","metaData":{}}
+files[] = {"id":"886194-4c3c00ac-066e-49e2-a747-463260005f79","path":"fadsf asf asfa Copy(3).json","metaData":{}}
+files[] = {"id":"886194-186b8456-09ea-4901-9e18-a539a1433eeb","path":"fasdf asdf as.json","metaData":{}}
+files[] = {"id":"886194-d95cbc01-4930-40c0-b098-542c1d5367d4","path":"fdafas dasd as.json","metaData":{}}
+files[] = {"id":"886194-ae297ac5-e208-4aa5-9fa8-64867bae4a61","path":"fdasfads fas.json","metaData":{}}
+files[] = {"id":"886194-00c279db-8343-4979-a2f5-e656ef1c97a9","path":"fdsa ff asfa sfd a.json","metaData":{}}
+files[] = {"id":"886194-2172970b-0b6e-4b24-8831-5cddf982ed80","path":"fdsafsdf asfd.json","metaData":{}}
+files[] = {"id":"886194-e8374026-5d73-49e8-865e-f40613a27c54","path":"hvhjvjk hkhk.json","metaData":{}}
+files[] = {"id":"886194-97cdf969-9d4c-46c8-b351-84b0ea7f5011","path":"new me 2.json","metaData":{}}
+files[] = {"id":"886194-373cc55f-cf37-4e3e-9c85-e48e31f8bfac","path":"new me.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"New (1).yaml","metaData":{}}
+files[] = {"path":"fasdf.yaml","metaData":{}}
+files[] = {"path":"fsdafas fs/fsdaf adsf.yaml","metaData":{}}
 files[] = {"path":"New (2).yaml","metaData":{}}
-files[] = {"path":"New Folder/New.yaml","metaData":{}}
 files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
